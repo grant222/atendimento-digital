@@ -1,2 +1,2 @@
 # atendimento-digital
-Canal MB de atendimento digital da Dework
+Canal MB de atendimento digital da Deworks
